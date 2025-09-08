@@ -1,0 +1,18 @@
+text,model,entity,word,score
+The patient was diagnosed with Type 2 diabetes and prescribed metformin 500 mg daily.,Bio,History,type,0.6137776374816895
+The patient was diagnosed with Type 2 diabetes and prescribed metformin 500 mg daily.,Bio,Disease_disorder,2 diabetes,0.9769611358642578
+The patient was diagnosed with Type 2 diabetes and prescribed metformin 500 mg daily.,Bio,Medication,metformin,0.9992740750312804
+The patient was diagnosed with Type 2 diabetes and prescribed metformin 500 mg daily.,Bio,Dosage,500 mg,0.9792178273200988
+The patient was diagnosed with Type 2 diabetes and prescribed metformin 500 mg daily.,General,MISC,Type 2,0.7700555324554443
+Patient presents with chest pain and was started on aspirin and nitroglycerin.,Bio,Biological_structure,chest,0.9999395608901978
+Patient presents with chest pain and was started on aspirin and nitroglycerin.,Bio,Sign_symptom,pain,0.9999525547027588
+Patient presents with chest pain and was started on aspirin and nitroglycerin.,Bio,Medication,as,0.9998772144317628
+Patient presents with chest pain and was started on aspirin and nitroglycerin.,Bio,Medication,##pirin,0.9589555263519288
+Patient presents with chest pain and was started on aspirin and nitroglycerin.,Bio,Medication,ni,0.9996485710144044
+Patient presents with chest pain and was started on aspirin and nitroglycerin.,Bio,Medication,##tro,0.9992448091506958
+Patient presents with chest pain and was started on aspirin and nitroglycerin.,Bio,Medication,##glycer,0.9954169988632202
+Diagnosis: glioblastoma multiforme. Treatment: temozolomide chemotherapy.,Bio,Disease_disorder,gliobla,0.9427642822265624
+Diagnosis: glioblastoma multiforme. Treatment: temozolomide chemotherapy.,Bio,Disease_disorder,##stoma,0.9764178991317748
+Diagnosis: glioblastoma multiforme. Treatment: temozolomide chemotherapy.,Bio,Medication,te,0.9996768236160278
+Diagnosis: glioblastoma multiforme. Treatment: temozolomide chemotherapy.,Bio,Medication,##mo,0.999065101146698
+Diagnosis: glioblastoma multiforme. Treatment: temozolomide chemotherapy.,Bio,Medication,##zolomide,0.8880795836448669
